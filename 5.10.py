@@ -4,8 +4,9 @@ if len(p)==4:
         if int(p)>2050 or int(p)<1900:
             print('OK')
         else:
-            print('ERROR)
+            print('ERROR')
     else:
         print('ERROR')
 else:
+
     print('ERROR')
